@@ -1,0 +1,13 @@
+{{
+  "loginUser": "standard_user",
+  "loginPassword": "secret_sauce",
+  "checkoutData": {
+    "firstName": "Lalit",
+    "lastName": "Choudhary",
+    "postalCode": "560001"
+  },
+  "urls": {
+    "baseUrl": "https://www.saucedemo.com/",
+    "inventoryUrl": "https://www.saucedemo.com/inventory.html"
+  }
+}
